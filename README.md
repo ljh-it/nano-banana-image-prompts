@@ -1,21 +1,24 @@
-# Nano Banana Image Prompts (Curated & Structured)
+## About This Repository
 
-A structured prompt library for Nano Banana / Nano Banana Pro workflows:
-- text-to-image
-- image-to-image refinement
-- poster/infographic layout
-- product photography
-- thumbnail compositions
+This repository curates high-fidelity Nano Banana prompts sourced from community discussions across X (Twitter), WeChat, Replicate, and independent prompt engineers.
 
-## How to use
-Open `prompts/00-quick-start.md` and pick a category.
-Each prompt includes:
-- Use case
-- Prompt
-- Optional parameters (2K/4K, aspect ratio, text, etc.)
+It focuses on:
+- Photorealistic portraits
+- Stylized aesthetics
+- Commercial product shots
+- Structured infographic layouts
+- Advanced image-to-image refinement patterns
 
-Live testing & prompt iteration can be done with platforms such as  
-👉 https://nanobanana-tools.com
+The goal is to document reproducible prompt structures that consistently unlock higher-quality outputs from Nano Banana and related models.
+
+---
+
+## Try These Prompts in Practice
+
+You can experiment with many of these prompt workflows using platforms such as:
+
+👉 Nano Banana powered image workflow tool  
+https://nanobanana-tools.com
 
 
 ## License & Credits
