@@ -1,0 +1,14 @@
+{
+  "title": "string",
+  "use_case": "portrait | product | thumbnail | poster | infographic | img2img",
+  "mode": "text2image | image2image",
+  "subject": "string",
+  "style_anchor": "string",
+  "lighting": "string",
+  "camera_hint": "string",
+  "composition": "string",
+  "detail_modifiers": ["string"],
+  "text_overlay": "string",
+  "resolution": "2k | 4k",
+  "notes": "string"
+}
