@@ -91,5 +91,4 @@ This repository is a community resource and does not guarantee specific outputs 
 - [2026-03-11-sunset-cafe-film](prompts/examples/daily/2026-03-11-sunset-cafe-film.md)
 - [2026-03-10-mirror-selfie-2000s](prompts/examples/daily/2026-03-10-mirror-selfie-2000s.md)
 
-_Automatically updated daily._
 <!-- DAILY_EXAMPLES_END -->
