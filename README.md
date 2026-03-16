@@ -84,6 +84,12 @@ This repository is a community resource and does not guarantee specific outputs 
 ## 🗓 Latest Daily Examples
 
 - [2026-03-16-rainy-neon-street](prompts/examples/daily/2026-03-16-rainy-neon-street.md)
+- [2026-03-15-luxury-jewelry-closeup](prompts/examples/daily/2026-03-15-luxury-jewelry-closeup.md)
+- [2026-03-14-dreamy-anime-pastel-city](prompts/examples/daily/2026-03-14-dreamy-anime-pastel-city.md)
+- [2026-03-13-futuristic-fashion-editorial](prompts/examples/daily/2026-03-13-futuristic-fashion-editorial.md)
+- [2026-03-12-minimal-bedroom-moodboard](prompts/examples/daily/2026-03-12-minimal-bedroom-moodboard.md)
+- [2026-03-11-sunset-cafe-film](prompts/examples/daily/2026-03-11-sunset-cafe-film.md)
+- [2026-03-10-mirror-selfie-2000s](prompts/examples/daily/2026-03-10-mirror-selfie-2000s.md)
 
 _Automatically updated daily._
 <!-- DAILY_EXAMPLES_END -->
