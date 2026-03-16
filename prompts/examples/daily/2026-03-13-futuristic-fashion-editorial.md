@@ -16,5 +16,20 @@ High-fashion futuristic editorial portrait, metallic accents, glossy makeup, dra
 - Composition: Vertical cover-style portrait composition
 - Detail Level: high
 
+## Copy-ready Prompt
+
+```text
+High-fashion futuristic editorial portrait, metallic accents, glossy makeup, dramatic studio light, luxurious textures, magazine cover quality, vertical composition, hyper realistic details.
+
+Rendering requirements:
+- Aspect ratio: 2:3
+- Style/Mood: Futuristic high-fashion editorial
+- Lighting: Dramatic studio light with controlled contrast
+- Composition: Vertical cover-style portrait composition
+- Detail level: high
+
+Please keep strong consistency with the above settings.
+```
+
 ## Image
 ![Futuristic Fashion Editorial](../../images/daily/2026-03-13-futuristic-fashion-editorial.png)
