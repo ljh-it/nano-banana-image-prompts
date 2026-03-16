@@ -23,10 +23,17 @@ Each prompt includes a concise description and structured example for easy reuse
 
 ## 🛠 How to Use
 
-1. Browse the categories in the `prompts/` directory.
-2. Copy the prompt text relevant to your use case.
-3. Paste into your Nano Banana workflow (2K/4K) or image-to-image interface.
-4. Adjust resolution, composition, and style modifiers as needed.
+1. Browse curated categories in `prompts/curated/`.
+2. Check latest production examples in `prompts/examples/daily/`.
+3. Copy the prompt text relevant to your use case.
+4. Paste into your Nano Banana workflow (2K/4K) or image-to-image interface.
+5. Adjust resolution, composition, and style modifiers as needed.
+
+### Repository Structure
+
+- `prompts/curated/`: hand-picked prompt collections for long-term reference
+- `prompts/examples/daily/`: latest daily prompt examples
+- `prompts/images/daily/`: images for daily examples
 
 ---
 
@@ -72,3 +79,11 @@ Please keep all submissions public and licensed under MIT to maintain compatibil
 ## ⚖️ Disclaimer
 
 This repository is a community resource and does not guarantee specific outputs for any AI model. Prompt effectiveness may vary by tool, model version, and settings.
+
+<!-- DAILY_EXAMPLES_START -->
+## 🗓 Latest Daily Examples
+
+- [2026-03-16-rainy-neon-street](prompts/examples/daily/2026-03-16-rainy-neon-street.md)
+
+_Automatically updated daily._
+<!-- DAILY_EXAMPLES_END -->
