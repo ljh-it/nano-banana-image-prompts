@@ -6,5 +6,15 @@
 Scandinavian minimal bedroom inspiration moodboard, soft neutral palette, sunlight shadows, linen textures, clean composition, cozy details, editorial interior styling, vertical 2:3 format.
 ```
 
+## Model
+- gemini-2.5-flash-image
+
+## Suggested Settings
+- Aspect Ratio: 2:3
+- Style / Mood: Minimal, cozy, editorial interior
+- Lighting: Soft daylight with natural shadow patterns
+- Composition: Vertical moodboard framing, clean geometry
+- Detail Level: high
+
 ## Image
 ![Minimal Bedroom Moodboard](../../images/daily/2026-03-12-minimal-bedroom-moodboard.png)

@@ -6,5 +6,15 @@
 Dreamy anime-inspired pastel city scene at dusk, glowing signage, soft clouds, reflective streets, cozy magical atmosphere, highly detailed illustration style, vertical Pinterest ratio.
 ```
 
+## Model
+- gemini-2.5-flash-image
+
+## Suggested Settings
+- Aspect Ratio: 2:3
+- Style / Mood: Pastel anime, dreamy, magical city vibe
+- Lighting: Dusk ambient light with neon glow accents
+- Composition: Vertical city scene with depth and leading lines
+- Detail Level: high
+
 ## Image
 ![Dreamy Pastel Anime City](../../images/daily/2026-03-14-dreamy-anime-pastel-city.png)
