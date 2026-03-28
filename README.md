@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-03-28-boho-beach-picnic](prompts/examples/daily/2026-03-28-boho-beach-picnic.md)
 - [2026-03-27-sci-fi-desk-setup-night](prompts/examples/daily/2026-03-27-sci-fi-desk-setup-night.md)
 - [2026-03-26-french-bakery-window](prompts/examples/daily/2026-03-26-french-bakery-window.md)
 - [2026-03-25-desert-road-trip-film](prompts/examples/daily/2026-03-25-desert-road-trip-film.md)
 - [2026-03-24-nordic-baby-room-soft](prompts/examples/daily/2026-03-24-nordic-baby-room-soft.md)
 - [2026-03-23-streetwear-sneaker-flatlay](prompts/examples/daily/2026-03-23-streetwear-sneaker-flatlay.md)
 - [2026-03-22-dark-academia-library-corner](prompts/examples/daily/2026-03-22-dark-academia-library-corner.md)
-- [2026-03-21-retro-travel-poster-italy](prompts/examples/daily/2026-03-21-retro-travel-poster-italy.md)
 <!-- DAILY_EXAMPLES_END -->
