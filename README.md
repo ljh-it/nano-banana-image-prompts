@@ -83,11 +83,11 @@ This repository is a community resource and does not guarantee specific outputs 
 <!-- DAILY_EXAMPLES_START -->
 ## 🗓 Latest Daily Examples
 
+- [2026-04-05-a-flat-branded-paper-folds-itself-24c3428b](prompts/examples/daily/2026-04-05-a-flat-branded-paper-folds-itself-24c3428b.md)
 - [2026-04-04-a-flat-branded-paper-folds-itself-3af398f5](prompts/examples/daily/2026-04-04-a-flat-branded-paper-folds-itself-3af398f5.md)
 - [2026-04-03-3d-sculpted-logo-of-logo-name-d5237668](prompts/examples/daily/2026-04-03-3d-sculpted-logo-of-logo-name-d5237668.md)
 - [2026-04-02-retro-crt-computer-boot-screen-that-2da0523c](prompts/examples/daily/2026-04-02-retro-crt-computer-boot-screen-that-2da0523c.md)
 - [2026-03-31-a-soft-3d-cartoon-style-sculpture-of-9dacb1ea](prompts/examples/daily/2026-03-31-a-soft-3d-cartoon-style-sculpture-of-9dacb1ea.md)
 - [2026-03-30-an-ultra-realistic-top-down-photograph-of-a-226c458a](prompts/examples/daily/2026-03-30-an-ultra-realistic-top-down-photograph-of-a-226c458a.md)
 - [2026-03-28-boho-beach-picnic](prompts/examples/daily/2026-03-28-boho-beach-picnic.md)
-- [2026-03-27-sci-fi-desk-setup-night](prompts/examples/daily/2026-03-27-sci-fi-desk-setup-night.md)
 <!-- DAILY_EXAMPLES_END -->
